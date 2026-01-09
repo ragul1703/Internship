@@ -94,5 +94,5 @@ All tasks were developed, tested, and executed using Google Colab and then uploa
 ---
 
 ## 👤 Author : Ragul S
-**Ragul H**
+**Ragul S**
 
